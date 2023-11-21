@@ -1,5 +1,26 @@
-# Top-100-Trending-Books
-This dataset offers an in-depth look into Amazon's top 100 Bestselling books along with their customer reviews, Ratings, Price etc. Whether you're a book enthusiast, data scientist, or just curious about the latest literary trends, this dataset provides a window into the world of popular reading.{Scrapped dataset on November 2023}
+# Popular books
+
+## context
+This present dataset offers an in-depth look into Amazon's top 100 Bestselling books along with their customer reviews, Ratings, Price etc. 
+Understanding the dynamics behind readers' book choices is pivotal for publishers, marketers, and authors alike. The dataset on Amazon's top 100 Bestselling books presents a rich opportunity to delve deeper into the factors that drive book purchases. In later studies, datasets from other bookselling as well as book review websites will also be collected. 
+
+## research question (RQ)
+When readers choose books, what are the factors that influence their buying preferences?
+
+## existing research
+Previous research in consumer behavior and book preferences has highlighted various factors influencing book choices. Studies have explored elements such as:
+-Book Genre Preferences: Analyzing whether certain genres are more favored among readers and the reasons behind these preferences.(Anderson etc. 2010)
+-Author Reputation: Investigating how well-known authors or their reputation influence book sales.
+-Reviews and Ratings Impact: Examining the correlation between book ratings, reviews, and sales.
+Citations from studies exploring these aspects in the context of book purchases can provide a theoretical foundation for further analysis.
+
+## tools and/or methods
+-Data Visualization Tools: Creating visual representations like bar graphs or scatter plots to illustrate patterns and relationships within the dataset.
+
+## Data Required
+-Book Details: Title, author, genre, price, ratings, reviews, publication date, etc.
+-Customer Demographics: If available, data on the demographic profile of customers who purchased these books
+
 ## Files
 | Variable:                     |     Description      |
 |-------------------------------|---------------------:|
