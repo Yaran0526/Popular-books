@@ -8,10 +8,7 @@ Understanding the dynamics behind readers' book choices is pivotal for publisher
 When readers choose books, what are the factors that influence their buying preferences?
 
 ## existing research
-Previous research in consumer behavior and book preferences has highlighted various factors influencing book choices. Studies have explored elements such as:
--Book Genre Preferences: Analyzing whether certain genres are more favored among readers and the reasons behind these preferences.(Anderson etc. 2010)
--Author Reputation: Investigating how well-known authors or their reputation influence book sales.
--Reviews and Ratings Impact: Examining the correlation between book ratings, reviews, and sales.
+Previous research in consumer behavior and book preferences has highlighted various factors influencing book choices. Studies have explored elements such as: Book Genre Preferences: Analyzing whether certain genres are more favored among readers and the reasons behind these preferences.(Anderson etc. 2010) Author Reputation: Investigating how well-known authors or their reputation influence book sales. Reviews and Ratings Impact: Examining the correlation between book ratings, reviews, and sales.
 Citations from studies exploring these aspects in the context of book purchases can provide a theoretical foundation for further analysis.
 
 ## tools and/or methods
